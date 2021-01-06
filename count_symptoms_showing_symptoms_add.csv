@@ -1,0 +1,597 @@
+"","age_band","country","Symptoms","Count","Percent"
+"1","0-9","All countries","chills",1,3.84615384615385
+"2","0-9","All countries","cough",2,7.69230769230769
+"3","0-9","All countries","diarrhoea",4,15.3846153846154
+"4","0-9","All countries","fatigue",3,11.5384615384615
+"5","0-9","All countries","headache",2,7.69230769230769
+"6","0-9","All countries","itchy_eyes",2,7.69230769230769
+"7","0-9","All countries","loss_appetite",1,3.84615384615385
+"8","0-9","All countries","muscle_ache",1,3.84615384615385
+"9","0-9","All countries","nasal_congestion",1,3.84615384615385
+"10","0-9","All countries","nausea_vomiting",1,3.84615384615385
+"11","0-9","All countries","sore_throat",3,11.5384615384615
+"12","0-9","All countries","sputum",1,3.84615384615385
+"13","0-9","All countries","temperature",4,15.3846153846154
+"14","10-19","All countries","chest_pain",1,0.613496932515337
+"15","10-19","All countries","chills",9,5.52147239263804
+"16","10-19","All countries","cough",18,11.0429447852761
+"17","10-19","All countries","diarrhoea",14,8.58895705521472
+"18","10-19","All countries","fatigue",21,12.8834355828221
+"19","10-19","All countries","headache",21,12.8834355828221
+"20","10-19","All countries","itchy_eyes",2,1.22699386503067
+"21","10-19","All countries","joint_pain",1,0.613496932515337
+"22","10-19","All countries","loss_appetite",4,2.45398773006135
+"23","10-19","All countries","muscle_ache",10,6.13496932515337
+"24","10-19","All countries","nasal_congestion",15,9.20245398773006
+"25","10-19","All countries","nausea_vomiting",4,2.45398773006135
+"26","10-19","All countries","shortness_breath",9,5.52147239263804
+"27","10-19","All countries","sore_throat",15,9.20245398773006
+"28","10-19","All countries","sputum",9,5.52147239263804
+"29","10-19","All countries","temperature",10,6.13496932515337
+"30","20-29","All countries","chest_pain",24,1.07190710138455
+"31","20-29","All countries","chills",107,4.77891916033944
+"32","20-29","All countries","cough",235,10.4957570343904
+"33","20-29","All countries","diarrhoea",172,7.68200089325592
+"34","20-29","All countries","fatigue",272,12.1482804823582
+"35","20-29","All countries","headache",292,13.0415364001787
+"36","20-29","All countries","itchy_eyes",110,4.91290754801251
+"37","20-29","All countries","joint_pain",12,0.535953550692273
+"38","20-29","All countries","loss_appetite",55,2.45645377400625
+"39","20-29","All countries","muscle_ache",202,9.0218847699866
+"40","20-29","All countries","nasal_congestion",245,10.9423849933006
+"41","20-29","All countries","nausea_vomiting",41,1.83117463153193
+"42","20-29","All countries","shortness_breath",120,5.35953550692273
+"43","20-29","All countries","sore_throat",169,7.54801250558285
+"44","20-29","All countries","sputum",63,2.81375614113443
+"45","20-29","All countries","temperature",120,5.35953550692273
+"46","30-39","All countries","chest_pain",28,0.853398354160317
+"47","30-39","All countries","chills",155,4.72416946053033
+"48","30-39","All countries","cough",354,10.7893934775983
+"49","30-39","All countries","diarrhoea",265,8.07680585187443
+"50","30-39","All countries","fatigue",392,11.9475769582444
+"51","30-39","All countries","headache",420,12.8009753124048
+"52","30-39","All countries","itchy_eyes",163,4.96799756171899
+"53","30-39","All countries","joint_pain",15,0.457177689728741
+"54","30-39","All countries","loss_appetite",79,2.40780249923804
+"55","30-39","All countries","muscle_ache",316,9.63120999695215
+"56","30-39","All countries","nasal_congestion",350,10.667479427004
+"57","30-39","All countries","nausea_vomiting",50,1.52392563242914
+"58","30-39","All countries","shortness_breath",144,4.38890582139592
+"59","30-39","All countries","sore_throat",276,8.41206949100884
+"60","30-39","All countries","sputum",104,3.16976531545261
+"61","30-39","All countries","temperature",170,5.18134715025907
+"62","40-49","All countries","chest_pain",16,0.818414322250639
+"63","40-49","All countries","chills",110,5.62659846547315
+"64","40-49","All countries","cough",189,9.66751918158568
+"65","40-49","All countries","diarrhoea",140,7.16112531969309
+"66","40-49","All countries","fatigue",267,13.6572890025575
+"67","40-49","All countries","headache",259,13.2480818414322
+"68","40-49","All countries","itchy_eyes",101,5.16624040920716
+"69","40-49","All countries","joint_pain",18,0.920716112531969
+"70","40-49","All countries","loss_appetite",39,1.99488491048593
+"71","40-49","All countries","muscle_ache",203,10.383631713555
+"72","40-49","All countries","nasal_congestion",190,9.71867007672634
+"73","40-49","All countries","nausea_vomiting",26,1.32992327365729
+"74","40-49","All countries","shortness_breath",76,3.88746803069054
+"75","40-49","All countries","sore_throat",177,9.0537084398977
+"76","40-49","All countries","sputum",44,2.25063938618926
+"77","40-49","All countries","temperature",100,5.1150895140665
+"78","50-59","All countries","chest_pain",11,0.954032957502168
+"79","50-59","All countries","chills",70,6.07111882046834
+"80","50-59","All countries","cough",137,11.8820468343452
+"81","50-59","All countries","diarrhoea",78,6.76496097137901
+"82","50-59","All countries","fatigue",146,12.6626192541197
+"83","50-59","All countries","headache",144,12.489158716392
+"84","50-59","All countries","itchy_eyes",46,3.98959236773634
+"85","50-59","All countries","joint_pain",8,0.693842150910668
+"86","50-59","All countries","loss_appetite",36,3.12228967909801
+"87","50-59","All countries","muscle_ache",118,10.2341717259324
+"88","50-59","All countries","nasal_congestion",94,8.15264527320035
+"89","50-59","All countries","nausea_vomiting",12,1.040763226366
+"90","50-59","All countries","shortness_breath",43,3.72940156114484
+"91","50-59","All countries","sore_throat",94,8.15264527320035
+"92","50-59","All countries","sputum",42,3.64267129228101
+"93","50-59","All countries","temperature",74,6.41803989592368
+"94","60+","All countries","chest_pain",7,1.47991543340381
+"95","60+","All countries","chills",26,5.49682875264271
+"96","60+","All countries","cough",55,11.6279069767442
+"97","60+","All countries","diarrhoea",36,7.61099365750529
+"98","60+","All countries","fatigue",56,11.8393234672304
+"99","60+","All countries","headache",50,10.5708245243129
+"100","60+","All countries","itchy_eyes",20,4.22832980972516
+"101","60+","All countries","joint_pain",5,1.05708245243129
+"102","60+","All countries","loss_appetite",16,3.38266384778013
+"103","60+","All countries","muscle_ache",55,11.6279069767442
+"104","60+","All countries","nasal_congestion",42,8.87949260042283
+"105","60+","All countries","nausea_vomiting",8,1.69133192389006
+"106","60+","All countries","shortness_breath",14,2.95983086680761
+"107","60+","All countries","sore_throat",40,8.45665961945032
+"108","60+","All countries","sputum",16,3.38266384778013
+"109","60+","All countries","temperature",27,5.70824524312896
+"110","0-9","Brazil","chills",1,25
+"111","0-9","Brazil","headache",1,25
+"112","0-9","Brazil","itchy_eyes",1,25
+"113","0-9","Brazil","nasal_congestion",1,25
+"114","10-19","Brazil","chest_pain",6,8.10810810810811
+"115","10-19","Brazil","chills",2,2.7027027027027
+"116","10-19","Brazil","cough",8,10.8108108108108
+"117","10-19","Brazil","diarrhoea",3,4.05405405405405
+"118","10-19","Brazil","fatigue",6,8.10810810810811
+"119","10-19","Brazil","headache",10,13.5135135135135
+"120","10-19","Brazil","itchy_eyes",5,6.75675675675676
+"121","10-19","Brazil","joint_pain",2,2.7027027027027
+"122","10-19","Brazil","loss_appetite",5,6.75675675675676
+"123","10-19","Brazil","muscle_ache",4,5.40540540540541
+"124","10-19","Brazil","nasal_congestion",11,14.8648648648649
+"125","10-19","Brazil","shortness_breath",3,4.05405405405405
+"126","10-19","Brazil","sore_throat",4,5.40540540540541
+"127","10-19","Brazil","sputum",4,5.40540540540541
+"128","10-19","Brazil","temperature",1,1.35135135135135
+"129","20-29","Brazil","chest_pain",36,5.11363636363636
+"130","20-29","Brazil","chills",30,4.26136363636364
+"131","20-29","Brazil","cough",68,9.65909090909091
+"132","20-29","Brazil","diarrhoea",45,6.39204545454545
+"133","20-29","Brazil","fatigue",90,12.7840909090909
+"134","20-29","Brazil","headache",107,15.1988636363636
+"135","20-29","Brazil","itchy_eyes",33,4.6875
+"136","20-29","Brazil","joint_pain",34,4.82954545454545
+"137","20-29","Brazil","loss_appetite",44,6.25
+"138","20-29","Brazil","muscle_ache",50,7.10227272727273
+"139","20-29","Brazil","nasal_congestion",60,8.52272727272727
+"140","20-29","Brazil","nausea_vomiting",12,1.70454545454545
+"141","20-29","Brazil","shortness_breath",13,1.84659090909091
+"142","20-29","Brazil","sore_throat",50,7.10227272727273
+"143","20-29","Brazil","sputum",13,1.84659090909091
+"144","20-29","Brazil","temperature",19,2.69886363636364
+"145","30-39","Brazil","chest_pain",82,4.59126539753639
+"146","30-39","Brazil","chills",96,5.37513997760358
+"147","30-39","Brazil","cough",175,9.79843225083987
+"148","30-39","Brazil","diarrhoea",112,6.27099664053751
+"149","30-39","Brazil","fatigue",245,13.7178051511758
+"150","30-39","Brazil","headache",241,13.4938409854423
+"151","30-39","Brazil","itchy_eyes",88,4.92721164613662
+"152","30-39","Brazil","joint_pain",92,5.1511758118701
+"153","30-39","Brazil","loss_appetite",106,5.93505039193729
+"154","30-39","Brazil","muscle_ache",139,7.78275475923852
+"155","30-39","Brazil","nasal_congestion",147,8.23068309070549
+"156","30-39","Brazil","nausea_vomiting",19,1.06382978723404
+"157","30-39","Brazil","shortness_breath",41,2.2956326987682
+"158","30-39","Brazil","sore_throat",114,6.38297872340426
+"159","30-39","Brazil","sputum",52,2.91153415453527
+"160","30-39","Brazil","temperature",37,2.07166853303471
+"161","40-49","Brazil","chest_pain",72,4.61834509300834
+"162","40-49","Brazil","chills",70,4.49005772931366
+"163","40-49","Brazil","cough",155,9.94227068633739
+"164","40-49","Brazil","diarrhoea",107,6.86337395766517
+"165","40-49","Brazil","fatigue",191,12.2514432328416
+"166","40-49","Brazil","headache",218,13.9833226427197
+"167","40-49","Brazil","itchy_eyes",79,5.06735086593971
+"168","40-49","Brazil","joint_pain",80,5.13149454778704
+"169","40-49","Brazil","loss_appetite",105,6.73508659397049
+"170","40-49","Brazil","muscle_ache",120,7.69724182168056
+"171","40-49","Brazil","nasal_congestion",151,9.68569595894804
+"172","40-49","Brazil","nausea_vomiting",20,1.28287363694676
+"173","40-49","Brazil","shortness_breath",30,1.92431045542014
+"174","40-49","Brazil","sore_throat",96,6.15779345734445
+"175","40-49","Brazil","sputum",32,2.05259781911482
+"176","40-49","Brazil","temperature",33,2.11674150096216
+"177","50-59","Brazil","chest_pain",26,3.43007915567282
+"178","50-59","Brazil","chills",39,5.14511873350923
+"179","50-59","Brazil","cough",93,12.2691292875989
+"180","50-59","Brazil","diarrhoea",44,5.80474934036939
+"181","50-59","Brazil","fatigue",95,12.532981530343
+"182","50-59","Brazil","headache",88,11.6094986807388
+"183","50-59","Brazil","itchy_eyes",39,5.14511873350923
+"184","50-59","Brazil","joint_pain",42,5.54089709762533
+"185","50-59","Brazil","loss_appetite",51,6.72823218997362
+"186","50-59","Brazil","muscle_ache",64,8.44327176781003
+"187","50-59","Brazil","nasal_congestion",70,9.23482849604222
+"188","50-59","Brazil","nausea_vomiting",7,0.923482849604222
+"189","50-59","Brazil","shortness_breath",19,2.5065963060686
+"190","50-59","Brazil","sore_throat",38,5.0131926121372
+"191","50-59","Brazil","sputum",22,2.9023746701847
+"192","50-59","Brazil","temperature",21,2.77044854881266
+"193","60+","Brazil","chest_pain",8,2.93040293040293
+"194","60+","Brazil","chills",17,6.22710622710623
+"195","60+","Brazil","cough",33,12.0879120879121
+"196","60+","Brazil","diarrhoea",16,5.86080586080586
+"197","60+","Brazil","fatigue",37,13.5531135531136
+"198","60+","Brazil","headache",26,9.52380952380952
+"199","60+","Brazil","itchy_eyes",14,5.12820512820513
+"200","60+","Brazil","joint_pain",11,4.02930402930403
+"201","60+","Brazil","loss_appetite",20,7.32600732600733
+"202","60+","Brazil","muscle_ache",24,8.79120879120879
+"203","60+","Brazil","nasal_congestion",18,6.59340659340659
+"204","60+","Brazil","nausea_vomiting",7,2.56410256410256
+"205","60+","Brazil","shortness_breath",8,2.93040293040293
+"206","60+","Brazil","sore_throat",11,4.02930402930403
+"207","60+","Brazil","sputum",12,4.3956043956044
+"208","60+","Brazil","temperature",11,4.02930402930403
+"209","0-9","India","chills",1,8.33333333333333
+"210","0-9","India","cough",1,8.33333333333333
+"211","0-9","India","diarrhoea",1,8.33333333333333
+"212","0-9","India","fatigue",1,8.33333333333333
+"213","0-9","India","headache",1,8.33333333333333
+"214","0-9","India","muscle_ache",1,8.33333333333333
+"215","0-9","India","nasal_congestion",1,8.33333333333333
+"216","0-9","India","nausea_vomiting",1,8.33333333333333
+"217","0-9","India","shortness_breath",1,8.33333333333333
+"218","0-9","India","sore_throat",1,8.33333333333333
+"219","0-9","India","sputum",1,8.33333333333333
+"220","0-9","India","temperature",1,8.33333333333333
+"221","10-19","India","chest_pain",4,5.63380281690141
+"222","10-19","India","chills",3,4.22535211267606
+"223","10-19","India","cough",8,11.2676056338028
+"224","10-19","India","diarrhoea",3,4.22535211267606
+"225","10-19","India","fatigue",8,11.2676056338028
+"226","10-19","India","headache",4,5.63380281690141
+"227","10-19","India","itchy_eyes",1,1.40845070422535
+"228","10-19","India","joint_pain",3,4.22535211267606
+"229","10-19","India","loss_appetite",4,5.63380281690141
+"230","10-19","India","muscle_ache",6,8.45070422535211
+"231","10-19","India","nasal_congestion",3,4.22535211267606
+"232","10-19","India","nausea_vomiting",4,5.63380281690141
+"233","10-19","India","shortness_breath",3,4.22535211267606
+"234","10-19","India","sore_throat",8,11.2676056338028
+"235","10-19","India","sputum",3,4.22535211267606
+"236","10-19","India","temperature",6,8.45070422535211
+"237","20-29","India","chest_pain",24,5.19480519480519
+"238","20-29","India","chills",11,2.38095238095238
+"239","20-29","India","cough",61,13.2034632034632
+"240","20-29","India","diarrhoea",17,3.67965367965368
+"241","20-29","India","fatigue",55,11.9047619047619
+"242","20-29","India","headache",40,8.65800865800866
+"243","20-29","India","itchy_eyes",18,3.8961038961039
+"244","20-29","India","joint_pain",14,3.03030303030303
+"245","20-29","India","loss_appetite",17,3.67965367965368
+"246","20-29","India","muscle_ache",25,5.41125541125541
+"247","20-29","India","nasal_congestion",42,9.09090909090909
+"248","20-29","India","nausea_vomiting",7,1.51515151515152
+"249","20-29","India","shortness_breath",13,2.81385281385281
+"250","20-29","India","sore_throat",54,11.6883116883117
+"251","20-29","India","sputum",24,5.19480519480519
+"252","20-29","India","temperature",40,8.65800865800866
+"253","30-39","India","chest_pain",14,2.05278592375367
+"254","30-39","India","chills",23,3.37243401759531
+"255","30-39","India","cough",94,13.782991202346
+"256","30-39","India","diarrhoea",31,4.54545454545455
+"257","30-39","India","fatigue",103,15.1026392961877
+"258","30-39","India","headache",60,8.79765395894428
+"259","30-39","India","itchy_eyes",14,2.05278592375367
+"260","30-39","India","joint_pain",19,2.78592375366569
+"261","30-39","India","loss_appetite",31,4.54545454545455
+"262","30-39","India","muscle_ache",44,6.45161290322581
+"263","30-39","India","nasal_congestion",60,8.79765395894428
+"264","30-39","India","nausea_vomiting",10,1.46627565982405
+"265","30-39","India","shortness_breath",21,3.0791788856305
+"266","30-39","India","sore_throat",60,8.79765395894428
+"267","30-39","India","sputum",29,4.25219941348974
+"268","30-39","India","temperature",69,10.1173020527859
+"269","40-49","India","chest_pain",11,2.89473684210526
+"270","40-49","India","chills",16,4.21052631578947
+"271","40-49","India","cough",45,11.8421052631579
+"272","40-49","India","diarrhoea",21,5.52631578947368
+"273","40-49","India","fatigue",52,13.6842105263158
+"274","40-49","India","headache",34,8.94736842105263
+"275","40-49","India","itchy_eyes",5,1.31578947368421
+"276","40-49","India","joint_pain",10,2.63157894736842
+"277","40-49","India","loss_appetite",14,3.68421052631579
+"278","40-49","India","muscle_ache",29,7.63157894736842
+"279","40-49","India","nasal_congestion",29,7.63157894736842
+"280","40-49","India","nausea_vomiting",5,1.31578947368421
+"281","40-49","India","shortness_breath",10,2.63157894736842
+"282","40-49","India","sore_throat",34,8.94736842105263
+"283","40-49","India","sputum",21,5.52631578947368
+"284","40-49","India","temperature",44,11.5789473684211
+"285","50-59","India","chest_pain",5,2.05761316872428
+"286","50-59","India","chills",11,4.52674897119342
+"287","50-59","India","cough",36,14.8148148148148
+"288","50-59","India","diarrhoea",11,4.52674897119342
+"289","50-59","India","fatigue",39,16.0493827160494
+"290","50-59","India","headache",17,6.99588477366255
+"291","50-59","India","itchy_eyes",10,4.11522633744856
+"292","50-59","India","joint_pain",5,2.05761316872428
+"293","50-59","India","loss_appetite",9,3.7037037037037
+"294","50-59","India","muscle_ache",19,7.81893004115226
+"295","50-59","India","nasal_congestion",14,5.76131687242798
+"296","50-59","India","nausea_vomiting",6,2.46913580246914
+"297","50-59","India","shortness_breath",5,2.05761316872428
+"298","50-59","India","sore_throat",13,5.34979423868313
+"299","50-59","India","sputum",8,3.29218106995885
+"300","50-59","India","temperature",35,14.40329218107
+"301","60+","India","chest_pain",2,1.14942528735632
+"302","60+","India","chills",8,4.59770114942529
+"303","60+","India","cough",25,14.367816091954
+"304","60+","India","diarrhoea",7,4.02298850574713
+"305","60+","India","fatigue",24,13.7931034482759
+"306","60+","India","headache",8,4.59770114942529
+"307","60+","India","itchy_eyes",2,1.14942528735632
+"308","60+","India","joint_pain",6,3.44827586206897
+"309","60+","India","loss_appetite",8,4.59770114942529
+"310","60+","India","muscle_ache",16,9.19540229885057
+"311","60+","India","nasal_congestion",3,1.72413793103448
+"312","60+","India","nausea_vomiting",6,3.44827586206897
+"313","60+","India","shortness_breath",10,5.74712643678161
+"314","60+","India","sore_throat",13,7.47126436781609
+"315","60+","India","sputum",9,5.17241379310345
+"316","60+","India","temperature",27,15.5172413793103
+"317","0-9","Mexico","fatigue",2,40
+"318","0-9","Mexico","headache",1,20
+"319","0-9","Mexico","nasal_congestion",1,20
+"320","0-9","Mexico","shortness_breath",1,20
+"321","10-19","Mexico","chills",3,4.34782608695652
+"322","10-19","Mexico","cough",8,11.5942028985507
+"323","10-19","Mexico","diarrhoea",5,7.2463768115942
+"324","10-19","Mexico","fatigue",11,15.9420289855072
+"325","10-19","Mexico","headache",10,14.4927536231884
+"326","10-19","Mexico","itchy_eyes",5,7.2463768115942
+"327","10-19","Mexico","loss_appetite",1,1.44927536231884
+"328","10-19","Mexico","muscle_ache",5,7.2463768115942
+"329","10-19","Mexico","nasal_congestion",8,11.5942028985507
+"330","10-19","Mexico","nausea_vomiting",1,1.44927536231884
+"331","10-19","Mexico","shortness_breath",3,4.34782608695652
+"332","10-19","Mexico","sore_throat",5,7.2463768115942
+"333","10-19","Mexico","sputum",2,2.89855072463768
+"334","10-19","Mexico","temperature",2,2.89855072463768
+"335","20-29","Mexico","chest_pain",22,1.19565217391304
+"336","20-29","Mexico","chills",80,4.34782608695652
+"337","20-29","Mexico","cough",214,11.6304347826087
+"338","20-29","Mexico","diarrhoea",117,6.35869565217391
+"339","20-29","Mexico","fatigue",247,13.4239130434783
+"340","20-29","Mexico","headache",242,13.1521739130435
+"341","20-29","Mexico","itchy_eyes",98,5.32608695652174
+"342","20-29","Mexico","joint_pain",14,0.760869565217391
+"343","20-29","Mexico","loss_appetite",62,3.3695652173913
+"344","20-29","Mexico","muscle_ache",163,8.85869565217391
+"345","20-29","Mexico","nasal_congestion",184,10
+"346","20-29","Mexico","nausea_vomiting",25,1.35869565217391
+"347","20-29","Mexico","shortness_breath",76,4.1304347826087
+"348","20-29","Mexico","sore_throat",166,9.02173913043478
+"349","20-29","Mexico","sputum",32,1.73913043478261
+"350","20-29","Mexico","temperature",98,5.32608695652174
+"351","30-39","Mexico","chest_pain",29,0.932176149148184
+"352","30-39","Mexico","chills",146,4.69302475088396
+"353","30-39","Mexico","cough",334,10.7360977177756
+"354","30-39","Mexico","diarrhoea",211,6.78238508518161
+"355","30-39","Mexico","fatigue",474,15.2362584378014
+"356","30-39","Mexico","headache",397,12.7611700417872
+"357","30-39","Mexico","itchy_eyes",146,4.69302475088396
+"358","30-39","Mexico","joint_pain",14,0.450016072002571
+"359","30-39","Mexico","loss_appetite",97,3.11796849887496
+"360","30-39","Mexico","muscle_ache",302,9.70748955319833
+"361","30-39","Mexico","nasal_congestion",299,9.61105753776921
+"362","30-39","Mexico","nausea_vomiting",44,1.4143362262938
+"363","30-39","Mexico","shortness_breath",128,4.11443265830922
+"364","30-39","Mexico","sore_throat",276,8.87174541947927
+"365","30-39","Mexico","sputum",59,1.89649630343941
+"366","30-39","Mexico","temperature",155,4.98232079717133
+"367","40-49","Mexico","chest_pain",12,0.578313253012048
+"368","40-49","Mexico","chills",90,4.33734939759036
+"369","40-49","Mexico","cough",233,11.2289156626506
+"370","40-49","Mexico","diarrhoea",152,7.32530120481928
+"371","40-49","Mexico","fatigue",333,16.0481927710843
+"372","40-49","Mexico","headache",278,13.3975903614458
+"373","40-49","Mexico","itchy_eyes",99,4.7710843373494
+"374","40-49","Mexico","joint_pain",13,0.626506024096385
+"375","40-49","Mexico","loss_appetite",59,2.8433734939759
+"376","40-49","Mexico","muscle_ache",231,11.1325301204819
+"377","40-49","Mexico","nasal_congestion",145,6.98795180722892
+"378","40-49","Mexico","nausea_vomiting",15,0.72289156626506
+"379","40-49","Mexico","shortness_breath",77,3.71084337349398
+"380","40-49","Mexico","sore_throat",169,8.14457831325301
+"381","40-49","Mexico","sputum",40,1.92771084337349
+"382","40-49","Mexico","temperature",129,6.21686746987952
+"383","50-59","Mexico","chest_pain",12,1.17302052785924
+"384","50-59","Mexico","chills",55,5.37634408602151
+"385","50-59","Mexico","cough",114,11.1436950146628
+"386","50-59","Mexico","diarrhoea",76,7.42913000977517
+"387","50-59","Mexico","fatigue",163,15.9335288367546
+"388","50-59","Mexico","headache",117,11.4369501466276
+"389","50-59","Mexico","itchy_eyes",39,3.81231671554252
+"390","50-59","Mexico","joint_pain",18,1.75953079178886
+"391","50-59","Mexico","loss_appetite",38,3.71456500488759
+"392","50-59","Mexico","muscle_ache",111,10.8504398826979
+"393","50-59","Mexico","nasal_congestion",62,6.06060606060606
+"394","50-59","Mexico","nausea_vomiting",15,1.46627565982405
+"395","50-59","Mexico","shortness_breath",36,3.51906158357771
+"396","50-59","Mexico","sore_throat",84,8.21114369501466
+"397","50-59","Mexico","sputum",18,1.75953079178886
+"398","50-59","Mexico","temperature",65,6.35386119257087
+"399","60+","Mexico","chest_pain",1,0.4
+"400","60+","Mexico","chills",12,4.8
+"401","60+","Mexico","cough",27,10.8
+"402","60+","Mexico","diarrhoea",21,8.4
+"403","60+","Mexico","fatigue",41,16.4
+"404","60+","Mexico","headache",29,11.6
+"405","60+","Mexico","itchy_eyes",6,2.4
+"406","60+","Mexico","loss_appetite",15,6
+"407","60+","Mexico","muscle_ache",20,8
+"408","60+","Mexico","nasal_congestion",16,6.4
+"409","60+","Mexico","nausea_vomiting",8,3.2
+"410","60+","Mexico","shortness_breath",8,3.2
+"411","60+","Mexico","sore_throat",22,8.8
+"412","60+","Mexico","sputum",6,2.4
+"413","60+","Mexico","temperature",18,7.2
+"414","0-9","Pakistan","fatigue",1,16.6666666666667
+"415","0-9","Pakistan","itchy_eyes",1,16.6666666666667
+"416","0-9","Pakistan","muscle_ache",1,16.6666666666667
+"417","0-9","Pakistan","nasal_congestion",1,16.6666666666667
+"418","0-9","Pakistan","sore_throat",1,16.6666666666667
+"419","0-9","Pakistan","temperature",1,16.6666666666667
+"420","10-19","Pakistan","chest_pain",3,3.8961038961039
+"421","10-19","Pakistan","chills",1,1.2987012987013
+"422","10-19","Pakistan","cough",11,14.2857142857143
+"423","10-19","Pakistan","diarrhoea",4,5.19480519480519
+"424","10-19","Pakistan","fatigue",11,14.2857142857143
+"425","10-19","Pakistan","headache",6,7.79220779220779
+"426","10-19","Pakistan","itchy_eyes",4,5.19480519480519
+"427","10-19","Pakistan","joint_pain",3,3.8961038961039
+"428","10-19","Pakistan","loss_appetite",4,5.19480519480519
+"429","10-19","Pakistan","muscle_ache",7,9.09090909090909
+"430","10-19","Pakistan","nasal_congestion",5,6.49350649350649
+"431","10-19","Pakistan","nausea_vomiting",1,1.2987012987013
+"432","10-19","Pakistan","shortness_breath",3,3.8961038961039
+"433","10-19","Pakistan","sore_throat",6,7.79220779220779
+"434","10-19","Pakistan","sputum",3,3.8961038961039
+"435","10-19","Pakistan","temperature",5,6.49350649350649
+"436","20-29","Pakistan","chest_pain",44,4.52674897119342
+"437","20-29","Pakistan","chills",29,2.98353909465021
+"438","20-29","Pakistan","cough",102,10.4938271604938
+"439","20-29","Pakistan","diarrhoea",66,6.79012345679012
+"440","20-29","Pakistan","fatigue",120,12.3456790123457
+"441","20-29","Pakistan","headache",94,9.67078189300411
+"442","20-29","Pakistan","itchy_eyes",26,2.67489711934156
+"443","20-29","Pakistan","joint_pain",39,4.01234567901235
+"444","20-29","Pakistan","loss_appetite",40,4.11522633744856
+"445","20-29","Pakistan","muscle_ache",59,6.06995884773663
+"446","20-29","Pakistan","nasal_congestion",89,9.15637860082304
+"447","20-29","Pakistan","nausea_vomiting",17,1.74897119341564
+"448","20-29","Pakistan","shortness_breath",37,3.80658436213992
+"449","20-29","Pakistan","sore_throat",82,8.43621399176955
+"450","20-29","Pakistan","sputum",45,4.62962962962963
+"451","20-29","Pakistan","temperature",83,8.53909465020576
+"452","30-39","Pakistan","chest_pain",25,2.70562770562771
+"453","30-39","Pakistan","chills",22,2.38095238095238
+"454","30-39","Pakistan","cough",92,9.95670995670996
+"455","30-39","Pakistan","diarrhoea",63,6.81818181818182
+"456","30-39","Pakistan","fatigue",135,14.6103896103896
+"457","30-39","Pakistan","headache",89,9.63203463203463
+"458","30-39","Pakistan","itchy_eyes",22,2.38095238095238
+"459","30-39","Pakistan","joint_pain",43,4.65367965367965
+"460","30-39","Pakistan","loss_appetite",41,4.43722943722944
+"461","30-39","Pakistan","muscle_ache",61,6.6017316017316
+"462","30-39","Pakistan","nasal_congestion",74,8.00865800865801
+"463","30-39","Pakistan","nausea_vomiting",21,2.27272727272727
+"464","30-39","Pakistan","shortness_breath",30,3.24675324675325
+"465","30-39","Pakistan","sore_throat",88,9.52380952380952
+"466","30-39","Pakistan","sputum",24,2.5974025974026
+"467","30-39","Pakistan","temperature",94,10.1731601731602
+"468","40-49","Pakistan","chest_pain",17,3.38645418326693
+"469","40-49","Pakistan","chills",11,2.19123505976096
+"470","40-49","Pakistan","cough",55,10.9561752988048
+"471","40-49","Pakistan","diarrhoea",21,4.18326693227092
+"472","40-49","Pakistan","fatigue",76,15.1394422310757
+"473","40-49","Pakistan","headache",37,7.37051792828685
+"474","40-49","Pakistan","itchy_eyes",10,1.99203187250996
+"475","40-49","Pakistan","joint_pain",22,4.38247011952191
+"476","40-49","Pakistan","loss_appetite",28,5.57768924302789
+"477","40-49","Pakistan","muscle_ache",37,7.37051792828685
+"478","40-49","Pakistan","nasal_congestion",31,6.17529880478088
+"479","40-49","Pakistan","nausea_vomiting",9,1.79282868525896
+"480","40-49","Pakistan","shortness_breath",20,3.98406374501992
+"481","40-49","Pakistan","sore_throat",43,8.56573705179283
+"482","40-49","Pakistan","sputum",23,4.58167330677291
+"483","40-49","Pakistan","temperature",62,12.3505976095618
+"484","50-59","Pakistan","chest_pain",6,2.63157894736842
+"485","50-59","Pakistan","chills",6,2.63157894736842
+"486","50-59","Pakistan","cough",29,12.719298245614
+"487","50-59","Pakistan","diarrhoea",14,6.14035087719298
+"488","50-59","Pakistan","fatigue",28,12.280701754386
+"489","50-59","Pakistan","headache",19,8.33333333333333
+"490","50-59","Pakistan","itchy_eyes",1,0.43859649122807
+"491","50-59","Pakistan","joint_pain",9,3.94736842105263
+"492","50-59","Pakistan","loss_appetite",6,2.63157894736842
+"493","50-59","Pakistan","muscle_ache",15,6.57894736842105
+"494","50-59","Pakistan","nasal_congestion",7,3.07017543859649
+"495","50-59","Pakistan","nausea_vomiting",3,1.31578947368421
+"496","50-59","Pakistan","shortness_breath",14,6.14035087719298
+"497","50-59","Pakistan","sore_throat",18,7.89473684210526
+"498","50-59","Pakistan","sputum",12,5.26315789473684
+"499","50-59","Pakistan","temperature",41,17.9824561403509
+"500","60+","Pakistan","chest_pain",1,0.581395348837209
+"501","60+","Pakistan","chills",6,3.48837209302326
+"502","60+","Pakistan","cough",22,12.7906976744186
+"503","60+","Pakistan","diarrhoea",6,3.48837209302326
+"504","60+","Pakistan","fatigue",28,16.2790697674419
+"505","60+","Pakistan","headache",9,5.23255813953488
+"506","60+","Pakistan","itchy_eyes",1,0.581395348837209
+"507","60+","Pakistan","joint_pain",3,1.74418604651163
+"508","60+","Pakistan","loss_appetite",6,3.48837209302326
+"509","60+","Pakistan","muscle_ache",10,5.81395348837209
+"510","60+","Pakistan","nasal_congestion",4,2.32558139534884
+"511","60+","Pakistan","nausea_vomiting",6,3.48837209302326
+"512","60+","Pakistan","shortness_breath",11,6.3953488372093
+"513","60+","Pakistan","sore_throat",11,6.3953488372093
+"514","60+","Pakistan","sputum",14,8.13953488372093
+"515","60+","Pakistan","temperature",34,19.7674418604651
+"516","10-19","United Kingdom","cough",2,18.1818181818182
+"517","10-19","United Kingdom","diarrhoea",1,9.09090909090909
+"518","10-19","United Kingdom","itchy_eyes",1,9.09090909090909
+"519","10-19","United Kingdom","muscle_ache",1,9.09090909090909
+"520","10-19","United Kingdom","nasal_congestion",1,9.09090909090909
+"521","10-19","United Kingdom","nausea_vomiting",1,9.09090909090909
+"522","10-19","United Kingdom","sore_throat",1,9.09090909090909
+"523","10-19","United Kingdom","sputum",2,18.1818181818182
+"524","10-19","United Kingdom","temperature",1,9.09090909090909
+"525","20-29","United Kingdom","chills",5,7.2463768115942
+"526","20-29","United Kingdom","cough",7,10.1449275362319
+"527","20-29","United Kingdom","diarrhoea",4,5.79710144927536
+"528","20-29","United Kingdom","fatigue",10,14.4927536231884
+"529","20-29","United Kingdom","headache",10,14.4927536231884
+"530","20-29","United Kingdom","muscle_ache",6,8.69565217391304
+"531","20-29","United Kingdom","nasal_congestion",5,7.2463768115942
+"532","20-29","United Kingdom","nausea_vomiting",1,1.44927536231884
+"533","20-29","United Kingdom","shortness_breath",8,11.5942028985507
+"534","20-29","United Kingdom","sore_throat",5,7.2463768115942
+"535","20-29","United Kingdom","sputum",3,4.34782608695652
+"536","20-29","United Kingdom","temperature",5,7.2463768115942
+"537","30-39","United Kingdom","chills",30,6.97674418604651
+"538","30-39","United Kingdom","cough",45,10.4651162790698
+"539","30-39","United Kingdom","diarrhoea",24,5.58139534883721
+"540","30-39","United Kingdom","fatigue",66,15.3488372093023
+"541","30-39","United Kingdom","headache",55,12.7906976744186
+"542","30-39","United Kingdom","itchy_eyes",1,0.232558139534884
+"543","30-39","United Kingdom","joint_pain",2,0.465116279069767
+"544","30-39","United Kingdom","muscle_ache",53,12.3255813953488
+"545","30-39","United Kingdom","nasal_congestion",27,6.27906976744186
+"546","30-39","United Kingdom","nausea_vomiting",10,2.32558139534884
+"547","30-39","United Kingdom","shortness_breath",40,9.30232558139535
+"548","30-39","United Kingdom","sore_throat",30,6.97674418604651
+"549","30-39","United Kingdom","sputum",30,6.97674418604651
+"550","30-39","United Kingdom","temperature",17,3.95348837209302
+"551","40-49","United Kingdom","chest_pain",1,0.134952766531714
+"552","40-49","United Kingdom","chills",41,5.53306342780027
+"553","40-49","United Kingdom","cough",88,11.8758434547908
+"554","40-49","United Kingdom","diarrhoea",27,3.64372469635628
+"555","40-49","United Kingdom","fatigue",111,14.9797570850202
+"556","40-49","United Kingdom","headache",90,12.1457489878543
+"557","40-49","United Kingdom","itchy_eyes",2,0.269905533063428
+"558","40-49","United Kingdom","joint_pain",2,0.269905533063428
+"559","40-49","United Kingdom","muscle_ache",82,11.0661268556005
+"560","40-49","United Kingdom","nasal_congestion",49,6.61268556005398
+"561","40-49","United Kingdom","nausea_vomiting",11,1.48448043184885
+"562","40-49","United Kingdom","shortness_breath",75,10.1214574898785
+"563","40-49","United Kingdom","sore_throat",76,10.2564102564103
+"564","40-49","United Kingdom","sputum",58,7.82726045883941
+"565","40-49","United Kingdom","temperature",28,3.77867746288799
+"566","50-59","United Kingdom","chest_pain",1,0.108932461873638
+"567","50-59","United Kingdom","chills",75,8.16993464052288
+"568","50-59","United Kingdom","cough",105,11.437908496732
+"569","50-59","United Kingdom","diarrhoea",41,4.46623093681917
+"570","50-59","United Kingdom","fatigue",133,14.4880174291939
+"571","50-59","United Kingdom","headache",103,11.2200435729847
+"572","50-59","United Kingdom","itchy_eyes",2,0.217864923747277
+"573","50-59","United Kingdom","joint_pain",2,0.217864923747277
+"574","50-59","United Kingdom","loss_appetite",2,0.217864923747277
+"575","50-59","United Kingdom","muscle_ache",121,13.1808278867102
+"576","50-59","United Kingdom","nasal_congestion",75,8.16993464052288
+"577","50-59","United Kingdom","nausea_vomiting",15,1.63398692810458
+"578","50-59","United Kingdom","shortness_breath",92,10.0217864923747
+"579","50-59","United Kingdom","sore_throat",57,6.20915032679739
+"580","50-59","United Kingdom","sputum",57,6.20915032679739
+"581","50-59","United Kingdom","temperature",37,4.03050108932462
+"582","60+","United Kingdom","chest_pain",1,0.515463917525773
+"583","60+","United Kingdom","chills",16,8.24742268041237
+"584","60+","United Kingdom","cough",23,11.8556701030928
+"585","60+","United Kingdom","diarrhoea",9,4.63917525773196
+"586","60+","United Kingdom","fatigue",31,15.979381443299
+"587","60+","United Kingdom","headache",21,10.8247422680412
+"588","60+","United Kingdom","itchy_eyes",1,0.515463917525773
+"589","60+","United Kingdom","joint_pain",1,0.515463917525773
+"590","60+","United Kingdom","muscle_ache",20,10.3092783505155
+"591","60+","United Kingdom","nasal_congestion",18,9.27835051546392
+"592","60+","United Kingdom","nausea_vomiting",2,1.03092783505155
+"593","60+","United Kingdom","shortness_breath",17,8.76288659793814
+"594","60+","United Kingdom","sore_throat",12,6.18556701030928
+"595","60+","United Kingdom","sputum",14,7.21649484536082
+"596","60+","United Kingdom","temperature",8,4.12371134020619
