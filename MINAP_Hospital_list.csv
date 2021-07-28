@@ -1,0 +1,249 @@
+Code,Hospital.name,long_code,Country,type
+AUK,Bishop Auckland General Hospital,auk. bishop auckland general hospital,England,Non-intervention
+BAL,Barts and the London Hospital,bal. barts and the london hospital,England,Non-intervention
+BDL,Bridlington and District Hospital,bdl. bridlington and district hospital,England,Non-intervention
+BHH,Rochdale Infirmary,bhh. rochdale infirmary,England,Non-intervention
+BUR,Burnley General Hospital,bur. burnley general hospital,England,Non-intervention
+FRH,Friarage Hospital,frh. friarage hospital,England,Non-intervention
+HWH,Heatherwood Hospital,hwh. heatherwood hospital,England,Non-intervention
+LER,Leicester Royal Infirmary,ler. leicester royal infirmary,England,Non-intervention
+LLA,Llandudno General Hospital,lla. llandudno general hospital,Wales,Non-intervention
+LOU,County Hospital Louth,lou. county hospital louth,England,Non-intervention
+MON,Montagu Hospital,mon. montagu hospital,England,Non-intervention
+NGH,Neath Port Talbot Hospital,ngh. neath port talbot hospital,Wales,Non-intervention
+PON,Ponterfract General Infirmary,pon. ponterfract general infirmary,England,Non-intervention
+RHA,Royal Hallamshire Hospital,rha. royal hallamshire hospital,England,Non-intervention
+SKH,Skegness District Hospital,skh. skegness district hospital,England,Non-intervention
+SOH,Selly Oak Hospital,soh. selly oak hospital,England,Non-intervention
+WCH,West Cornwall Hospital,wch. west cornwall hospital,England,Non-intervention
+WGE,"Western General Hospital, Scotland","wge. western general hospital, scotland",Scotland,Non-intervention
+ADD,Addenbrooke's Hospital,add. addenbrooke's hospital,England,Non-intervention
+AEI,Royal Albert Edward Infirmary,aei. royal albert edward infirmary,England,Intervention
+AIR,Airedale General Hospital,air. airedale general hospital,England,Non-intervention
+ALT,Altnagelvin Area Hospital,alt. altnagelvin area hospital,Northern Ireland,Intervention
+AMG,Wycombe Hospital,amg. wycombe hospital,England,Intervention
+ASH,Wansbeck General Hospital,ash. wansbeck general hospital,England,Non-intervention
+ATM,Antrim Area Hospital,atm. antrim area hospital,Northern Ireland,Non-intervention
+BAR,Barnsley Hospital,bar. barnsley hospital,England,Non-intervention
+BAS,Basildon Hospital,bas. basildon hospital,England,Intervention
+BAT,Royal United Hospital Bath,bat. royal united hospital bath,England,Intervention
+BED,Bedford Hospital,bed. bedford hospital,England,Intervention
+BFH,Broomfield Hospital,bfh. broomfield hospital,England,Non-intervention
+BFT,Belfast City Hospital,bft. belfast city hospital,Northern Ireland,Intervention
+BHL,Liverpool Heart and Chest Hospital ,bhl. liverpool heart and chest hospital ,England,Intervention
+BHR,Royal Berkshire Hospital,bhr. royal berkshire hospital,England,Intervention
+BLA,Royal Blackburn Hospital,bla. royal blackburn hospital,England,Intervention
+BNT,Barnet General Hospital,bnt. barnet general hospital,England,Non-intervention
+BOL,Royal Bolton Hospital,bol. royal bolton hospital,England,Non-intervention
+BOU,Royal Bournemouth General Hospital,bou. royal bournemouth general hospital,England,Intervention
+BRD,Bradford Royal Infirmary,brd. bradford royal infirmary,England,Intervention
+BRG,Bronglais General Hospital,brg. bronglais general hospital,Wales,Non-intervention
+BRI,Bristol Royal Infirmary,bri. bristol royal infirmary,England,Intervention
+BRO,"Princess Royal University Hospital, Bromley","bro. princess royal university hospital, bromley",England,Non-intervention
+BRT,"Queen's Hospital, Burton","brt. queen's hospital, burton",England,Non-intervention
+BRY,Fairfield General Hospital,bry. fairfield general hospital,England,Intervention
+BSL,Bassetlaw Hospital,bsl. bassetlaw hospital,England,Non-intervention
+BSM,Southmead Hospital,bsm. southmead hospital,England,Non-intervention
+CCH,Charing Cross Hospital,cch. charing cross hospital,England,Non-intervention
+CGH,Conquest Hospital,cgh. conquest hospital,England,Intervention
+CHE,Chesterfield Royal Hospital,che. chesterfield royal hospital,England,Non-intervention
+CHG,Cheltenham General Hospital,chg. cheltenham general hospital,England,Intervention
+CHH,Castle Hill Hospital,chh. castle hill hospital,England,Intervention
+CHN,Nottingham City Hospital,chn. nottingham city hospital,England,Intervention
+CHO,Chorley and South Ribble Hospital,cho. chorley and south ribble hospital,England,Non-intervention
+CHS,Chase Farm Hospital,chs. chase farm hospital,England,Non-intervention
+CLR,Causeway Hospital,clr. causeway hospital,Northern Ireland,Non-intervention
+CLW,Glan Clwyd Hospital,clw. glan clwyd hospital,Wales,Intervention
+CMH,Central Middlesex Hospital,cmh. central middlesex hospital,England,Non-intervention
+CMI,Cumberland Infirmary,cmi. cumberland infirmary,England,Intervention
+COC,Countess of Chester Hospital,coc. countess of chester hospital,England,Non-intervention
+COL,Colchester General Hospital,col. colchester general hospital,England,Non-intervention
+CRG,Craigavon Area Hospital,crg. craigavon area hospital,Northern Ireland,Intervention
+DAR,Darlington Memorial Hospital,dar. darlington memorial hospital,England,Non-intervention
+DER,Royal Derby Hospital,der. royal derby hospital,England,Intervention
+DEW,Dewsbury District Hospital,dew. dewsbury district hospital,England,Non-intervention
+DGE,Eastbourne District General Hospital,dge. eastbourne district general hospital,England,Intervention
+DID,Doncaster Royal Infirmary,did. doncaster royal infirmary,England,Non-intervention
+DOW,Downe Hospital,dow. downe hospital,Northern Ireland,Non-intervention
+DRY,University Hospital of North Durham,dry. university hospital of north durham,England,Non-intervention
+DSY,Daisy Hill Hospital,dsy. daisy hill hospital,Northern Ireland,Non-intervention
+DUD,Birmingham City Hospital,dud. birmingham city hospital,England,Intervention
+DVH,Darent Valley Hospital,dvh. darent valley hospital,England,Intervention
+EAL,Ealing Hospital,eal. ealing hospital,England,Intervention
+EBH,Birmingham Heartlands Hospital,ebh. birmingham heartlands hospital,England,Intervention
+EPS,Epsom Hospital ,eps. epsom hospital ,England,Intervention
+ESU,East Surrey Hospital,esu. east surrey hospital,England,Intervention
+FAZ,University Hospital Aintree,faz. university hospital aintree,England,Non-intervention
+FGH,Furness General Hospital,fgh. furness general hospital,England,Non-intervention
+FRE,Freeman Hospital,fre. freeman hospital,England,Intervention
+FRM,Frimley Park Hospital,frm. frimley park hospital,England,Intervention
+FRY,Frenchay Hospital,fry. frenchay hospital,England,Intervention
+GEO,St George's Hospital,geo. st george's hospital,England,Intervention
+GGH,"Diana, Princess of Wales Hospital","ggh. diana, princess of wales hospital",England,Non-intervention
+GHS,Good Hope Hospital,ghs. good hope hospital,England,Non-intervention
+GLO,Gloucestershire Royal Hospital,glo. gloucestershire royal hospital,England,Non-intervention
+GRA,Grantham and District Hospital,gra. grantham and district hospital,England,Non-intervention
+GRL,Glenfield Hospital,grl. glenfield hospital,England,Intervention
+GWE,Royal Gwent Hospital,gwe. royal gwent hospital,Wales,Non-intervention
+GWH,"Queen Elizabeth Hospital, Woolwich","gwh. queen elizabeth hospital, woolwich",England,Intervention
+GWY,Ysbyty Gwynedd,gwy. ysbyty gwynedd,Wales,Non-intervention
+HAM,Hammersmith Hospital,ham. hammersmith hospital,England,Intervention
+HAR,Harrogate District Hospital,har. harrogate district hospital,England,Non-intervention
+HCH,County Hospital Hereford,hch. county hospital hereford,England,Non-intervention
+HEX,Hexham General Hospital,hex. hexham general hospital,England,Non-intervention
+HGH,University Hospital of Hartlepool,hgh. university hospital of hartlepool,England,Non-intervention
+HH,Harefield Hospital,hh. harefield hospital,England,Intervention
+HHH,Hemel Hemstead General Hospital,hhh. hemel hemstead general hospital,England,Non-intervention
+HIL,Hillingdon Hospital,hil. hillingdon hospital,England,Non-intervention
+HIN,Hinchingbrooke Hospital,hin. hinchingbrooke hospital,England,Non-intervention
+HOM,Homerton University Hospital,hom. homerton university hospital,England,Non-intervention
+HOR,Horton General Hospital,hor. horton general hospital,England,Non-intervention
+HRI,Hull Royal Infirmary,hri. hull royal infirmary,England,Non-intervention
+HUD,Huddersfield Royal Infirmary,hud. huddersfield royal infirmary,England,Non-intervention
+IOW,"St Mary's Hospital, Newport","iow. st mary's hospital, newport",England,Non-intervention
+IPS,The Ipswich Hospital,ips. the ipswich hospital,England,Non-intervention
+JPH,James Paget University Hospital,jph. james paget university hospital,England,Non-intervention
+KCC,Kent and Canterbury Hospital,kcc. kent and canterbury hospital,England,Non-intervention
+KCH,King's College Hospital,kch. king's college hospital,England,Intervention
+KGG,King George Hospital,kgg. king george hospital,England,Non-intervention
+KGH,Kettering General Hospital,kgh. kettering general hospital,England,Intervention
+KMH,King's Mill Hospital,kmh. king's mill hospital,England,Non-intervention
+KSX,Tunbridge Wells Hospital,ksx. tunbridge wells hospital,England,Intervention
+KTH,Kingston Hospital,kth. kingston hospital,England,Non-intervention
+LAG,Lagan Valley Hospital,lag. lagan valley hospital,Northern Ireland,Non-intervention
+LCH,London Chest Hospital,lch. london chest hospital,England,Intervention
+LDH,Luton & Dunstable Hospital,ldh. luton & dunstable hospital,England,Non-intervention
+LEW,University Hospital Lewisham,lew. university hospital lewisham,England,Non-intervention
+LGH,Leighton Hospital,lgh. leighton hospital,England,Non-intervention
+LGI,Leeds General Infirmary,lgi. leeds general infirmary,England,Intervention
+LIN,Lincoln County Hospital,lin. lincoln county hospital,England,Intervention
+LIS,Lister Hospital,lis. lister hospital,England,Intervention
+LLD,Llandough Hospital,lld. llandough hospital,Wales,Non-intervention
+LON,Royal London Hospital,lon. royal london hospital,England,Non-intervention
+MAC,Macclesfield District General Hospital,mac. macclesfield district general hospital,England,Non-intervention
+MAH,"Mater Infirmorum Hospital, Belfast","mah. mater infirmorum hospital, belfast",Northern Ireland,Non-intervention
+MAI,Maidstone Hospital,mai. maidstone hospital,England,Non-intervention
+MAY,Croydon University Hospital,may. croydon university hospital,England,Intervention
+MDW,Medway Maritime Hospital,mdw. medway maritime hospital,England,Intervention
+MKH,Milton Keynes General Hospital,mkh. milton keynes general hospital,England,Non-intervention
+MOR,Morriston Hospital,mor. morriston hospital,Wales,Intervention
+MPH,Musgrove Park Hospital,mph. musgrove park hospital,England,Intervention
+MRI,Manchester Royal Infirmary,mri. manchester royal infirmary,England,Intervention
+NCR,New Cross Hospital,ncr. new cross hospital,England,Intervention
+NDD,North Devon District Hospital,ndd. north devon district hospital,England,Non-intervention
+NEH,Northumbria Specialist Emergency Care Hospital,neh. northumbria specialist emergency care hospital,England,Intervention
+NEV,Nevill Hall Hospital,nev. nevill hall hospital,Wales,Non-intervention
+NGS,Northern General Hospital,ngs. northern general hospital,England,Intervention
+NHB,Royal Brompton Hospital,nhb. royal brompton hospital,England,Intervention
+NHH,Basingstoke and North Hampshire Hospital,nhh. basingstoke and north hampshire hospital,England,Intervention
+NHN,Newark Hospital NHN,nhn. newark hospital nhn,England,Non-intervention
+NMG,North Manchester General Hospital,nmg. north manchester general hospital,England,Non-intervention
+NMH,North Middlesex Hospital,nmh. north middlesex hospital,England,Non-intervention
+NOB,"Noble's Hospital, Isle of Mann","nob. noble's hospital, isle of mann",Other,Non-intervention
+NOR,Norfolk and Norwich University Hospital,nor. norfolk and norwich university hospital,England,Intervention
+NPH,Northwick Park Hospital,nph. northwick park hospital,England,Intervention
+NTG,University Hospital of North Tees,ntg. university hospital of north tees,England,Non-intervention
+NTH,Northampton General Hospital,nth. northampton general hospital,England,Non-intervention
+NTY,North Tyneside General Hospital,nty. north tyneside general hospital,England,Non-intervention
+NUH,Ulster Hospital,nuh. ulster hospital,Northern Ireland,Non-intervention
+NUN,George Eliot Hospital,nun. george eliot hospital,England,Non-intervention
+NWG,Newham University Hospital,nwg. newham university hospital,England,Non-intervention
+OHM,Royal Oldham Hospital,ohm. royal oldham hospital,England,Non-intervention
+OLD,"Queen's Hospital, Romford","old. queen's hospital,romford",England,Non-intervention
+PAH,Princess Alexandra Hospital,pah. princess alexandra hospital,England,Non-intervention
+PAP,Papworth Hospital,pap. papworth hospital,England,Intervention
+PCH,Prince Charles Hospital,pch. prince charles hospital,Wales,Non-intervention
+PEH,Princess Elizabeth Hospital,peh. princess elizabeth hospital,England,Non-intervention
+PET,Peterborough City Hospital,pet. peterborough city hospital,England,Non-intervention
+PGH,Poole Hospital,pgh. poole hospital,England,Non-intervention
+PIL,Pilgrim Hospital,pil. pilgrim hospital,England,Non-intervention
+PIN,Pinderfields General Hospital,pin. pinderfields general hospital,England,Intervention
+PLY,Derriford Hospital,ply. derriford hospital,England,Intervention
+PMS,The Great Western Hospital,pms. the great western hospital,England,Intervention
+POW,Princess of Wales Hospital,pow. princess of wales hospital,Wales,Non-intervention
+PPH,Prince Philip Hospital,pph. prince philip hospital,Wales,Non-intervention
+PRH,"Princess Royal Hospital, Haywards Heath","prh. princess royal hospital, haywards heath",England,Non-intervention
+QAP,Queen Alexandra Hospital,qap. queen alexandra hospital,England,Non-intervention
+QEB,"Queen Elizabeth Hospital, Birmingham","qeb. queen elizabeth hospital, birmingham",England,Intervention
+QEG,"Queen Elizabeth Hospital, Gateshead","qeg. queen elizabeth hospital, gateshead",England,Non-intervention
+QEQ,Queen Elizabeth the Queen Mother Hospital,qeq. queen elizabeth the queen mother hospital,England,Non-intervention
+QEW,Queen Elizabeth II Hospital,qew. queen elizabeth ii hospital,England,Non-intervention
+QHM,Queen Mary Hospital,qhm. queen mary hospital,England,Non-intervention
+QKL,"Queen Elizabeth Hospital, King's Lynn","qkl. queen elizabeth hospital, king's lynn",England,Non-intervention
+RAD,John Radcliffe Hospital,rad. john radcliffe hospital,England,Intervention
+RCH,Royal Cornwall Hospital,rch. royal cornwall hospital,England,Intervention
+RDE,Royal Devon & Exeter Hospital,rde. royal devon & exeter hospital,England,Intervention
+RED,Alexandra Hospital,red. alexandra hospital,England,Non-intervention
+RFH,Royal Free Hospital,rfh. royal free hospital,England,Intervention
+RGH,Royal Glamorgan Hospital,rgh. royal glamorgan hospital,Wales,Non-intervention
+RHC,Royal Hampshire County Hospital,rhc. royal hampshire county hospital,England,Non-intervention
+RHI,Calderdale Royal Hospital,rhi. calderdale royal hospital,England,Non-intervention
+RLI,Royal Lancaster Infirmary,rli. royal lancaster infirmary,England,Non-intervention
+RLU,Royal Liverpool University Hospital,rlu. royal liverpool university hospital,England,Non-intervention
+ROT,Rotherham Hospital,rot. rotherham hospital,England,Non-intervention
+RPH,Royal Preston Hospital,rph. royal preston hospital,England,Non-intervention
+RSC,Royal Sussex County Hospital,rsc. royal sussex county hospital,England,Intervention
+RSS,Royal Shrewsbury Hospital,rss. royal shrewsbury hospital,England,Non-intervention
+RSU,Royal Surrey County Hospital,rsu. royal surrey county hospital,England,Non-intervention
+RUS,Russells Hall Hospital,rus. russells hall hospital,England,Non-intervention
+RVB,"Royal Victoria Hospital, Belfast","rvb. royal victoria hospital, belfast",Northern Ireland,Intervention
+RVN,Royal Victoria Infirmary,rvn. royal victoria infirmary,England,Non-intervention
+SAL,Salisbury District Hospital,sal. salisbury district hospital,England,Non-intervention
+SAN,Sandwell General Hospital,san. sandwell general hospital,England,Intervention
+SBH,St Bartholomew's Hospital,sbh. st bartholomew's hospital,England,Intervention
+SCA,Scarborough General Hospital,sca. scarborough general hospital,England,Non-intervention
+SCM,James Cook University Hospital,scm. james cook university hospital,England,Intervention
+SCU,Scunthorpe General Hospital,scu. scunthorpe general hospital,England,Intervention
+SDG,Stafford Hospital,sdg. stafford hospital,England,Non-intervention
+SEH,Southend University Hospital ,seh. southend university hospital ,England,Non-intervention
+SGH,Southampton General Hospital,sgh. southampton general hospital,England,Intervention
+SHC,St Helier Hospital,shc. st helier hospital,England,Non-intervention
+SHH,Stepping Hill Hospital,shh. stepping hill hospital,England,Non-intervention
+SHJ,Jersey General Hospital,shj. jersey general hospital,Other,Non-intervention
+SIN,Singleton Hospital ,sin. singleton hospital ,Wales,Non-intervention
+SLF,Salford Royal Hospital,slf. salford royal hospital,England,Non-intervention
+SMV,Stoke Mandeville Hospital,smv. stoke mandeville hospital,England,Non-intervention
+SOL,Solihull Hospital,sol. solihull hospital,England,Non-intervention
+SOU,Southport and Formby District General,sou. southport and formby district general,England,Non-intervention
+SPH,St Peter's Hospital,sph. st peter's hospital,England,Intervention
+STD,South Tyneside District Hospital,std. south tyneside district hospital,England,Non-intervention
+STH,St Thomas' Hospital,sth. st thomas' hospital,England,Intervention
+STM,"St Mary's Hospital, Paddington","stm. st mary's hospital, paddington",England,Non-intervention
+STO,Royal Stoke University Hospital,sto. royal stoke university hospital,England,Intervention
+STR,St Richard's Hospital,str. st richard's hospital,England,Non-intervention
+SUN,Sunderland Royal Hospital,sun. sunderland royal hospital,England,Intervention
+SWE,"South West Acute Hospital, Enniskillen","swe. south west acute hospital, enniskillen",Northern Ireland,Non-intervention
+TGA,Tameside General Hospital,tga. tameside general hospital,England,Non-intervention
+TLF,"Princess Royal Hospital, Telford","tlf. princess royal hospital, telford",England,Non-intervention
+TOR,Torbay Hospital,tor. torbay hospital,England,Intervention
+TRA,Trafford General Hospital,tra. trafford general hospital,England,Non-intervention
+UCH,University College Hospital Gower Street,uch. university college hospital gower street,England,Non-intervention
+UCL,"University College Hospital, Heart Hospital","ucl. university college hospital, heart hospital",England,Intervention
+UHN,University Hospital Queen's Medical Centre,uhn. university hospital queen's medical centre,England,Non-intervention
+UHW,University Hospital of Wales,uhw. university hospital of wales,Wales,Intervention
+VIC,Blackpool Victoria Hospital,vic. blackpool victoria hospital,England,Intervention
+WAL,University Hospital Coventry,wal. university hospital coventry,England,Intervention
+WAR,Warwick Hospital,war. warwick hospital,England,Non-intervention
+WAT,Watford General Hospital,wat. watford general hospital,England,Non-intervention
+WCI,West Cumberland Hospital,wci. west cumberland hospital,England,Non-intervention
+WDG,Warrington Hospital,wdg. warrington hospital,England,Non-intervention
+WDH,Dorset County Hospital,wdh. dorset county hospital,England,Intervention
+WES,Chelsea and Westminster Hospital,wes. chelsea and westminster hospital,England,Non-intervention
+WEX,Wexham Park Hospital,wex. wexham park hospital,England,Intervention
+WGH,Weston General Hospital,wgh. weston general hospital,England,Non-intervention
+WHC,Whipps Cross Hospital,whc. whipps cross hospital,England,Intervention
+WHH,William Harvey Hospital,whh. william harvey hospital,England,Intervention
+WHI,Whiston Hospital,whi. whiston hospital,England,Non-intervention
+WHT,Whittington Hospital,wht. whittington hospital,England,Non-intervention
+WIR,Arrowe Park Hospital,wir. arrowe park hospital,England,Non-intervention
+WMH,Manor Hospital,wmh. manor hospital,England,Non-intervention
+WMU,West Middlesex University Hospital,wmu. west middlesex university hospital,England,Non-intervention
+WRC,Worcestershire Royal Hospital,wrc. worcestershire royal hospital,England,Intervention
+WRG,Worthing Hospital,wrg. worthing hospital,England,Intervention
+WRX,Wrexham Maelor Hospital,wrx. wrexham maelor hospital,Wales,Non-intervention
+WSH,West Suffolk Hospital,wsh. west suffolk hospital,England,Non-intervention
+WWG,Glangwili General Hospital,wwg. glangwili general hospital,Wales,Non-intervention
+WYB,Withybush General Hospital,wyb. withybush general hospital,Wales,Non-intervention
+WYT,Wythenshawe Hospital,wyt. wythenshawe hospital,England,Intervention
+YDH,York District Hospital,ydh. york district hospital,England,Intervention
+YEO,Yeovil District Hospital,yeo. yeovil district hospital,England,Non-intervention
